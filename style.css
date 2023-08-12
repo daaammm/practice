@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.portada{
+    background-color: thistle;
+    width: 100vw;
+    height: 100vh;
+}
+
+.iconos{
+    background-color: aliceblue;
+    
+}
+
+.bienvenida{
+    background-color: pink;
+}
+
+
+.bienvenida img{
+    width: 10px;
+    height: 10px;
+}
